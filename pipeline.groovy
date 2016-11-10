@@ -1,5 +1,6 @@
 { ->
   node {
+    stage "hello world"
     hello 'world'
   }
 }
